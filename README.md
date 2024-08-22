@@ -1,1 +1,1 @@
-# AutoCAD-LISP
+# LISP for AutoCAD and BricsCAD
