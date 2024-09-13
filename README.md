@@ -1,5 +1,5 @@
 # LISP for AutoCAD and BricsCAD
-This collection of LISP scripts is designed to automate and enhance your CAD workflows in both AutoCAD and BricsCAD.
+This collection of LISP programs is designed to automate and enhance your CAD workflows in both AutoCAD and BricsCAD.
 
 For AutoCAD: Use the APPLOAD command to load the LISP files.
 
