@@ -1,6 +1,5 @@
 ;;; LoadApps: startup file for loading various program files
 ;;; Author: Oliver Wackenreuther
-;;; www.website.com
 ;;; Version 1.0, Date 2024-08-15
 (setq globalLispPath "C:\\LISPFILEPATH\\")
 (setq globalDllPath "C:\\DLLFILEPATH\\")
