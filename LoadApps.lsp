@@ -16,7 +16,7 @@
     ;Loop through each file and load it
     (foreach file lispList
         (if (/= (findfile (strcat globalLispPath file)) nil)
-            (command "._netload" (strcat globalLispPath file))
+            (command "._appload" (strcat globalLispPath file))
             (alert (strcat "Unable to load " file " it was not found in " globalLispPath))
         )
     )
