@@ -1,6 +1,5 @@
 ;;; IsoText: Allows user to change text rotation and oblique angle to a predefined setting to achieve isometric text
 ;;; Author: Oliver Wackenreuther
-;;; www.website.com
 ;;; Version 1.0, Date 2024-08-23
 (defun c:OW:IsoText (/ ss ent ename eData option rotation oblique)
 	(vl-load-com)
